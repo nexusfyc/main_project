@@ -13,3 +13,5 @@ final_confirmed = los_data.drop(['stay_at_home_announced', 'stay_at_home_effecti
 print(final_confirmed)
 
 final_confirmed.plot()
+
+print('看到这条信息，即意味完成')
